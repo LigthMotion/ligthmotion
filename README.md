@@ -54,14 +54,6 @@ Apasionado por la programación, la resolución de problemas técnicos y el apre
 
 ---
 
-## 📂 Proyectos destacados
-
-- 📘 [Biografía de Rose Marie Tapia](https://ligthmotion.github.io/Portafolio/html/biografia-rose/index.html)  
-- ⏰ [Reloj digital en JavaScript](https://ligthmotion.github.io/Portafolio/js/reloj-digital/index.html)  
-- 📊 [Análisis de datos con Python](https://ligthmotion.github.io/Portafolio/python/analisis-datos/index.html)
-
----
-
 ## 📫 Contacto
 
 ✉️ Correo: [rpol19@hotmail.com](mailto:rpol19@hotmail.com)  
