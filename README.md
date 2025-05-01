@@ -26,7 +26,7 @@ Apasionado por la programación, la resolución de problemas técnicos y el apre
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-**Diseño UI/UX y prototipado**
+**Diseño UI/UX y prototipado**  
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Axure RP](https://img.shields.io/badge/-Axure-336699?style=flat&logoColor=white)
 
