@@ -41,18 +41,15 @@ Apasionado por la programación, la resolución de problemas técnicos y el apre
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Axure RP](https://img.shields.io/badge/-Axure-336699?style=flat&logoColor=white)
 
-📂 Proyectos destacados
+## 📂 Proyectos destacados
 
 📘 Biografía de Rose Marie Tapia
-
 ⏰ Reloj digital en JavaScript
-
 📊 Análisis de datos con Python
 
-📫 Contacto
+## 📫 Contacto
 
 ✉️ Correo: rpol19@hotmail.com
-
 🌐 LinkedIn: linkedin.com/in/rodo19
 
 Gracias por visitar mi perfil 😊
