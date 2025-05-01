@@ -19,29 +19,29 @@ Apasionado por la programación, la resolución de problemas técnicos y el apre
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
 
 **Lenguaje de marcado y estilo**  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 
 **Bases de datos**  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
 **Automatización, análisis y colaboración**  
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)  
-![Power Automate](https://img.shields.io/badge/-Power%20Automate-0066FF?style=flat&logo=microsoftpowerautomate&logoColor=white)  
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Power Automate](https://img.shields.io/badge/-Power%20Automate-0066FF?style=flat&logo=microsoftpowerautomate&logoColor=white)
 ![SharePoint](https://img.shields.io/badge/-SharePoint-0078d4?style=flat&logo=microsoftsharepoint&logoColor=white)
 
 **Productividad y diseño**  
-![Visio](https://img.shields.io/badge/-MS%20Visio-3955a3?style=flat&logo=microsoft&logoColor=white)  
-![MS Project](https://img.shields.io/badge/-MS%20Project-217346?style=flat&logo=microsoftproject&logoColor=white)  
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)  
-![Word](https://img.shields.io/badge/-Word-2B579A?style=flat&logo=microsoftword&logoColor=white)  
+![Visio](https://img.shields.io/badge/-MS%20Visio-3955a3?style=flat&logo=microsoft&logoColor=white)
+![MS Project](https://img.shields.io/badge/-MS%20Project-217346?style=flat&logo=microsoftproject&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![Word](https://img.shields.io/badge/-Word-2B579A?style=flat&logo=microsoftword&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white)
 
 **Diseño y prototipado**  
-![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)  
-![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)  
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)  
+![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Axure RP](https://img.shields.io/badge/-Axure-336699?style=flat&logoColor=white)
 
 ---
